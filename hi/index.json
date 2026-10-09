@@ -1,0 +1,32 @@
+{
+  "project": "SpineCare Connect",
+  "language": "hi",
+  "document_title": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन और क्लिनिकल कंटेंट रिपॉजिटरी",
+  "source_document": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन और क्लिनिकल कंटेंट रिपॉजिटरी [Educational Prototype – Based on Available References | Not Clinically Reviewed]",
+  "document_purpose": "SpineCare Connect का उद्देश्य केवल स्पाइनल कॉर्ड इंजरी (SCI) के बारे में जागरूकता और सामान्य शैक्षिणिक जानकारी (general educational information) देना है, न कि उपचार या पुनर्वास (treatment or rehabilitation) निर्धारित करना।",
+  "content_status": "Educational Prototype – Based on Available References | Not Clinically Reviewed",
+  "topics": [
+    { "id": "home", "title": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन और क्लिनिकल कंटेंट रिपॉजिटरी", "file": "home.json", "order": 1, "children": [] },
+    { "id": "disclaimer", "title": "चिकित्सा संबंधी अस्वीकरण (Medical Information Disclaimer)", "file": "disclaimer.json", "order": 2, "children": [] },
+    { "id": "content-governance", "title": "सेक्शन 0: सोर्स पॉलिसी, कंटेंट गवर्नेंस और डुअल-लेयर फ्रेमवर्क", "file": "content-governance.json", "order": 3, "children": [] },
+    { "id": "sci-basics-and-initial-care", "title": "सेक्शन 1: SCI की बुनियादी जानकारी, निदान और शुरुआती देखभाल", "file": "sci-basics-and-initial-care.json", "order": 4, "children": [] },
+    {
+      "id": "body-functions", "title": "सेक्शन 2: शारीरिक कार्य और द्वितीयक जटिलताएं (Secondary Complications)", "file": "body-functions.json", "order": 5,
+      "children": [
+        { "id": "pressure-injuries", "title": "1. प्रेशर इंजरी / बेडसोर (Pressure Injuries)", "file": "pressure-injuries.json", "order": 6, "children": [] },
+        { "id": "neurogenic-bladder-and-uti", "title": "2. न्यूरोजेनिक ब्लैडर और मूत्र पथ के संक्रमण (UTI)", "file": "neurogenic-bladder-and-uti.json", "order": 7, "children": [] },
+        { "id": "neurogenic-bowel-dysfunction", "title": "3. न्यूरोजेनिक बाउल डिसफंक्शन (NBD) और कब्ज", "file": "neurogenic-bowel-dysfunction.json", "order": 8, "children": [] },
+        { "id": "autonomic-dysreflexia", "title": "4. ऑटोनॉमिक डिसरिफ्लेक्सिया (Autonomic Dysreflexia - AD)", "file": "autonomic-dysreflexia.json", "order": 9, "children": [] },
+        { "id": "secondary-complications-5-13", "title": "द्वितीयक जटिलताएं 5–13", "file": "secondary-complications-5-13.json", "order": 10, "children": [] }
+      ]
+    },
+    { "id": "rehabilitation", "title": "सेक्शन 3: बहुविषयक पुनर्वास, फिजियोथेरपी और ऑक्यूपेशनल थेरपी", "file": "rehabilitation.json", "order": 11, "children": [] },
+    { "id": "nutrition-and-metabolic-management", "title": "सेक्शन 4: पोषण और चयापचय प्रबंधन", "file": "nutrition-and-metabolic-management.json", "order": 12, "children": [] },
+    { "id": "daily-care-home-safety-and-caregiver-support", "title": "सेक्शन 5: दैनिक देखभाल, घरेलू सुरक्षा और केयरगिवर सहायता", "file": "daily-care-home-safety-and-caregiver-support.json", "order": 13, "children": [] },
+    { "id": "independence-and-assistive-technology", "title": "सेक्शन 6: स्वतंत्रता, सहायक तकनीक और चोट के बाद का जीवन", "file": "independence-and-assistive-technology.json", "order": 14, "children": [] },
+    { "id": "triage-guidance", "title": "दो-स्तरीय ट्रियाज मार्गदर्शन प्रणाली", "file": "triage-guidance.json", "order": 15, "children": [] },
+    { "id": "myths-and-facts", "title": "SpineCare Connect भ्रम बनाम तथ्य मैट्रिक्स", "file": "myths-and-facts.json", "order": 16, "children": [] },
+    { "id": "glossary", "title": "मरीज के अनुकूल SCI शब्दावली", "file": "glossary.json", "order": 17, "children": [] },
+    { "id": "references", "title": "सेक्शन 8: मास्टर संदर्भ कैटलॉग", "file": "references.json", "order": 18, "children": [] }
+  ]
+}

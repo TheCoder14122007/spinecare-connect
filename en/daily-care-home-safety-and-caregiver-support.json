@@ -1,0 +1,103 @@
+{
+  "id": "daily-care-home-safety-and-caregiver-support",
+  "title": "Section 5: Daily Care, Home Safety & Caregiver Support",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "skin-health-and-positioning-awareness",
+      "heading": "Skin Health & Positioning Awareness",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Pressure Relief Awareness: Regular weight shifts and repositioning help prevent skin breakdown. Specific positioning methods and schedules should be determined by a qualified healthcare professional.",
+            "Skin Inspection Awareness: Educational resources highlight the importance of routine skin monitoring (such as morning and evening checks with mirrors or caregiver assistance) to identify early skin changes over high-risk bony prominences (sacrum, ischial tuberosities, trochanters, heels, scapulae).",
+            "Moisture Management: Maintain clean, dry skin; address urinary/fecal incontinence immediately; avoid harsh soaps and vigorous friction rubbing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home-safety-and-environmental-modifications",
+      "heading": "Home Safety & Environmental Modifications",
+      "content": [
+        {
+          "type": "table",
+          "columns": ["Architectural Domain", "General Accessibility Considerations"],
+          "rows": [
+            [
+              "Ramp Slopes",
+              "Gradual inclines (such as a 1:12 slope guideline) facilitate safer manual and powered wheelchair propulsion."
+            ],
+            [
+              "Doorway Widths",
+              "Sufficient clear door opening width (typically 32 to 36 inches) allows comfortable wheelchair clearance."
+            ],
+            [
+              "Bathroom Modifications",
+              "Roll-in showers with flat thresholds, wall-mounted grab bars (rated for weight bearing), elevated toilet seats, padded shower chairs."
+            ],
+            [
+              "Environmental Hazard Clearance",
+              "Complete removal of throw rugs, exposed electrical cords, and uneven thresholds. Adequate illumination along all transit corridors."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bladder-and-bowel-daily-maintenance",
+      "heading": "Bladder & Bowel Daily Maintenance",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Bladder Management: Bladder care routines must be prescribed, evaluated, and monitored by a qualified healthcare professional or urologist based on individual clinical evaluation.",
+            "Bowel Management: Bowel management plans require clinical assessment and guidance from healthcare specialists based on individual neurogenic bowel conditions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "respiratory-care-at-home",
+      "heading": "Respiratory Care at Home",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Respiratory support techniques and devices must be evaluated, prescribed, and monitored by qualified healthcare professionals."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mental-health-and-social-integration",
+      "heading": "Mental Health & Social Integration",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Active connection with peer-mentorship networks, specialized disability sports associations, and vocational rehabilitation programs to facilitate community re-entry and long-term adaptation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caregiver-wellbeing",
+      "heading": "Caregiver Wellbeing",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Ergonomics & Assistance: Caregivers should receive hands-on training from healthcare professionals regarding proper body mechanics and assistive techniques to protect safety and wellbeing.",
+            "Respite & Support: Caregivers play a vital role in supporting independence. Incorporating ergonomic transfer techniques, respectful encouragement, stress management, and professional respite care helps prevent caregiver burnout and maintains long-term wellbeing."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": []
+}

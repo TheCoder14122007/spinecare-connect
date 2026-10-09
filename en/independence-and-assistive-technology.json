@@ -1,0 +1,49 @@
+{
+  "id": "independence-and-assistive-technology",
+  "title": "Section 6: Independence, Assistive Technology & Life After Injury",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "life-after-injury-and-community-reintegration",
+      "heading": "Life After Injury & Community Reintegration",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Living with a spinal cord injury involves adapting daily routines, returning to personal roles, and engaging fully in social and professional life:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Daily Living & Autonomy: Developing confidence in problem-solving, self-advocacy, and directing personal care assistance.",
+            "Education & Employment: Vocational rehabilitation, workplace accommodations, adaptive computer access, and flexible schedules support career continuation or retraining.",
+            "Rights & Equal Access: Understanding disability rights, accessibility legislation, and advocacy resources to promote barrier-free public environments.",
+            "Leisure & Adaptive Sports: Participation in adapted recreation, community organizations, and peer networks enhances physical fitness and social wellbeing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assistive-products-and-devices",
+      "heading": "Assistive Products & Devices",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Selecting appropriate assistive equipment enhances safety and functional independence:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mobility Devices: Manual wheelchairs (ultra-lightweight, folding, or rigid) and power wheelchairs customized with pressure-relieving seating cushions (air, gel, or foam combination).",
+            "Transfer Aids: Transfer boards, swivel seats, and mechanical patient lifts to facilitate safe transitions.",
+            "Orthoses & Walking Aids: Ankle-Foot Orthoses (AFOs), Knee-Ankle-Foot Orthoses (KAFOs), walkers, or crutches prescribed for standing and ambulation.",
+            "Environmental Control Technologies: Smart home voice controls, modified door openers, and adaptive device interfaces."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": []
+}

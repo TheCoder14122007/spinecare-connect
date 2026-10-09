@@ -1,0 +1,137 @@
+{
+  "project": "SpineCare Connect",
+  "language": "en",
+  "document_title": "SPINECARE CONNECT: MASTER DATA COLLECTION & CLINICAL CONTENT REPOSITORY [Educational Prototype – Based on Available References | Not Clinically Reviewed]",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "document_purpose": "Provide general educational awareness about spinal cord injury (SCI), not treatment or rehabilitation prescriptions.",
+  "content_status": "Educational Prototype – Based on Available References | Not Clinically Reviewed",
+  "topics": [
+    {
+      "id": "home",
+      "title": "SpineCare Connect – Document Title & Purpose",
+      "file": "home.json",
+      "order": 1,
+      "children": []
+    },
+    {
+      "id": "disclaimer",
+      "title": "Medical Information Disclaimer",
+      "file": "disclaimer.json",
+      "order": 2,
+      "children": []
+    },
+    {
+      "id": "content-governance",
+      "title": "Section 0: Source Policy, Content Governance & Dual-Layer Framework",
+      "file": "content-governance.json",
+      "order": 3,
+      "children": []
+    },
+    {
+      "id": "sci-basics-and-initial-care",
+      "title": "Section 1: SCI Basic Information, Diagnosis & Initial Care",
+      "file": "sci-basics-and-initial-care.json",
+      "order": 4,
+      "children": []
+    },
+    {
+      "id": "body-functions",
+      "title": "Section 2: Body Functions & Secondary Complications (Overview)",
+      "file": "body-functions.json",
+      "order": 5,
+      "children": [
+        {
+          "id": "pressure-injuries",
+          "title": "1. Pressure Injuries",
+          "file": "pressure-injuries.json",
+          "order": 6,
+          "children": []
+        },
+        {
+          "id": "neurogenic-bladder-and-uti",
+          "title": "2. Neurogenic Bladder & Urinary Tract Infections (UTI)",
+          "file": "neurogenic-bladder-and-uti.json",
+          "order": 7,
+          "children": []
+        },
+        {
+          "id": "neurogenic-bowel-dysfunction",
+          "title": "3. Neurogenic Bowel Dysfunction (NBD) & Constipation",
+          "file": "neurogenic-bowel-dysfunction.json",
+          "order": 8,
+          "children": []
+        },
+        {
+          "id": "autonomic-dysreflexia",
+          "title": "4. Autonomic Dysreflexia (AD)",
+          "file": "autonomic-dysreflexia.json",
+          "order": 9,
+          "children": []
+        },
+        {
+          "id": "secondary-complications-5-13",
+          "title": "Secondary Complications 5–13",
+          "file": "secondary-complications-5-13.json",
+          "order": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "rehabilitation",
+      "title": "Section 3: Multidisciplinary Rehabilitation, Physiotherapy & Occupational Therapy",
+      "file": "rehabilitation.json",
+      "order": 11,
+      "children": []
+    },
+    {
+      "id": "nutrition-and-metabolic-management",
+      "title": "Section 4: Nutrition & Metabolic Management",
+      "file": "nutrition-and-metabolic-management.json",
+      "order": 12,
+      "children": []
+    },
+    {
+      "id": "daily-care-home-safety-and-caregiver-support",
+      "title": "Section 5: Daily Care, Home Safety & Caregiver Support",
+      "file": "daily-care-home-safety-and-caregiver-support.json",
+      "order": 13,
+      "children": []
+    },
+    {
+      "id": "independence-and-assistive-technology",
+      "title": "Section 6: Independence, Assistive Technology & Life After Injury",
+      "file": "independence-and-assistive-technology.json",
+      "order": 14,
+      "children": []
+    },
+    {
+      "id": "triage-guidance",
+      "title": "Section 7 (Part A): Two-Tiered Triage Guidance System",
+      "file": "triage-guidance.json",
+      "order": 15,
+      "children": []
+    },
+    {
+      "id": "myths-and-facts",
+      "title": "Section 7 (Part B): SpineCare Connect Myth vs. Fact Matrix",
+      "file": "myths-and-facts.json",
+      "order": 16,
+      "children": []
+    },
+    {
+      "id": "glossary",
+      "title": "Section 7 (Part C): Patient-Friendly SCI Glossary",
+      "file": "glossary.json",
+      "order": 17,
+      "children": []
+    },
+    {
+      "id": "references",
+      "title": "Section 8: Master Reference Catalogue",
+      "file": "references.json",
+      "order": 18,
+      "children": []
+    }
+  ]
+}

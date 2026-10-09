@@ -1,0 +1,24 @@
+{
+  "id": "neurogenic-bowel-dysfunction",
+  "title": "3. Neurogenic Bowel Dysfunction (NBD) & Constipation",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": "body-functions",
+  "sections": [
+    {
+      "id": "neurogenic-bowel-dysfunction-detail",
+      "heading": "3. Neurogenic Bowel Dysfunction (NBD) & Constipation",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Upper Motor Neuron (UMN) Bowel (Hyperreflexic): Lesions above the conus medullaris (above T12). Hypertonic anal sphincter, loss of voluntary control, reflex bowel evacuation.",
+            "Lower Motor Neuron (LMN) Bowel (Areflexic): Lesions at/below the conus medullaris or cauda equina (T12/L1 and below). Loss of parasympathetic input, relaxed/flaccid anal sphincter, severe risk of impaction and continuous stool leakage."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": []
+}

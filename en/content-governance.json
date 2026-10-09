@@ -1,0 +1,121 @@
+{
+  "id": "content-governance",
+  "title": "Section 0: Source Policy, Content Governance & Dual-Layer Framework",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "priority-hierarchy",
+      "heading": "Priority Hierarchy",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The SpineCare Connect content engine adheres strictly to a three-tiered evidence architecture to ensure medical accuracy, safety, and regulatory compliance across all patient-facing and provider-facing materials:"
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            {
+              "text": "Tier 1: Institutional & Governmental Authorities (Primary Baseline)",
+              "sub_items": [
+                "World Health Organization (WHO)",
+                "National Institute of Neurological Disorders and Stroke (NINDS / NIH)",
+                "National Health Service (NHS England / NHS Improvement)",
+                "U.S. Department of Veterans Affairs (VA) Spinal Cord Injury System of Care"
+              ]
+            },
+            {
+              "text": "Tier 2: Recognized Clinical Specialty Guidelines (Secondary Validation)",
+              "sub_items": [
+                "Consortium for Spinal Cord Medicine (Clinical Practice Guidelines)",
+                "International Spinal Cord Society (ISCoS) Standards",
+                "American Spinal Injury Association (ASIA) International Standards for Neurological Classification of SCI (ISNCSCI)",
+                "Paralyzed Veterans of America (PVA) Clinical Practice Guidelines"
+              ]
+            },
+            {
+              "text": "Tier 3: Peer-Reviewed Scientific Literature (Contextual Nuance)",
+              "sub_items": [
+                "High-impact medical journals (e.g., Spinal Cord, Journal of Neurotrauma, Archives of Physical Medicine and Rehabilitation) utilized strictly for supplementing consensus gaps in Tier 1/2 documents."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dual-layer-content-architecture",
+      "heading": "Dual-Layer Content Architecture",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To serve both healthcare providers and individuals living with spinal cord injuries, SpineCare Connect employs a dual-layer content model:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Layer 1: Clinical Reference & Research Baseline: Preserves formal medical terminology, pathophysiology, and clinical classification standards for physicians, physiatrists, physiotherapists, and occupational therapists.",
+            "Layer 2: Patient & Caregiver Educational Layer: Translates complex medical concepts into accessible, plain-language guidance to empower patients and family members in home management and self-advocacy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "excluded-sources",
+      "heading": "Excluded Sources",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To protect users from misinformation, unverified clinical protocols, and commercially biased recommendations, the following sources are strictly barred from ingestion:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Social media platforms, patient forums, and unverified anecdotal media.",
+            "Commercial health portals lacking board-certified medical review.",
+            "Generative AI outputs without direct, traceable attribution to Tier 1/2 sources.",
+            "Direct-to-consumer wellness platforms promoting non-evidence-based interventions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "traffic-light-classification-framework",
+      "heading": "Traffic Light Classification Framework (Educational Content Status)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Every clinical data point, protocol, and guidance text within SpineCare Connect carries an explicit classification marker indicating its educational status and review requirements. Content is derived from reference materials (including WHO, NINDS/NIH, NHS, VA, ISCoS, ASIA, and PVA) but has not been clinically verified or approved by a clinician:"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "text": "🟢 SOURCE-BASED EDUCATIONAL INFORMATION",
+              "sub_items": [
+                "Criteria: Content directly derived from Tier 1 or Tier 2 clinical guidelines without modification. Fully traceable, safe for general patient education."
+              ]
+            },
+            {
+              "text": "🟡 CLINICAL REVIEW NOT CONDUCTED – PROFESSIONAL GUIDANCE REQUIRED",
+              "sub_items": [
+                "Criteria: Interventions requiring individualization, including exercise regimens, bladder/bowel management sequences, transfer protocols, and emergency steps. Must be reviewed by a certified physiatrist or physical therapist prior to application."
+              ]
+            },
+            {
+              "text": "🔴 NOT FOR PUBLICATION",
+              "sub_items": [
+                "Criteria: Statements containing unverified statistical claims, universal lifting limits, generic commercial cure claims, or advice overriding direct specialist medical supervision."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "The three status labels defined in this section (SOURCE-BASED EDUCATIONAL INFORMATION, CLINICAL REVIEW NOT CONDUCTED – PROFESSIONAL GUIDANCE REQUIRED, NOT FOR PUBLICATION) are the original review-category labels used throughout the source document and must not be changed or removed anywhere on the website."
+  ]
+}

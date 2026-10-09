@@ -1,0 +1,24 @@
+{
+  "id": "home",
+  "title": "SpineCare Connect: Master Data Collection & Clinical Content Repository",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "document-title-and-purpose",
+      "heading": "SPINECARE CONNECT: MASTER DATA COLLECTION & CLINICAL CONTENT REPOSITORY [Educational Prototype – Based on Available References | Not Clinically Reviewed]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Purpose: Provide general educational awareness about spinal cord injury (SCI), not treatment or rehabilitation prescriptions."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "Document status label from the source PDF title: Educational Prototype – Based on Available References | Not Clinically Reviewed.",
+    "Content is derived from available published references and has not undergone independent clinical review."
+  ]
+}

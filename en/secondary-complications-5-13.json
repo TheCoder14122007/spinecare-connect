@@ -1,0 +1,130 @@
+{
+  "id": "secondary-complications-5-13",
+  "title": "Secondary Complications 5–13",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": "body-functions",
+  "sections": [
+    {
+      "id": "spasticity-and-joint-contractures",
+      "heading": "5. Spasticity & Joint Contractures",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Spasticity: Vel-dependent increase in tonic stretch reflexes resulting from upper motor neuron loss. Can cause involuntary muscle spasms, pain, and functional impairment, though mild spasticity may assist transfers and circulation.",
+            "Contractures: Permanent muscle/tendon shortening resulting from sustained immobility and spasticity, leading to loss of passive Range of Motion (ROM)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neuropathic-and-musculoskeletal-pain",
+      "heading": "6. Neuropathic & Musculoskeletal Pain",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Neuropathic Pain: Arises from damaged neural tissue. Characterized as burning, shooting, stabbing, or electric-shock-like sensations occurring above, at, or below the injury level.",
+            "Musculoskeletal Pain: Originates from mechanical overload, altered body mechanics, and overuse injuries, particularly in the shoulders, wrists, and neck during transfers and manual wheelchair propulsion."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "respiratory-complications-and-pulmonary-care",
+      "heading": "7. Respiratory Complications & Pulmonary Care",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Pathophysiology: Loss of intercostal and abdominal muscle innervation (C1–T12) impairs inspiratory capacity and cough effectiveness.",
+            "Complications: Atelectasis, hypoventilation, and neurogenic pulmonary edema. Respiratory complications, including pneumonia, can be serious and require prompt medical management."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dvt-and-pulmonary-embolism",
+      "heading": "8. Deep Vein Thrombosis (DVT) & Pulmonary Embolism (PE)",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Risk Factors: Venous stasis from lower extremity paralysis, altered hypercoagulable state post-trauma, and vascular trauma.",
+            "Clinical Features: Asymmetrical lower limb swelling, localized warmth, erythema. Sudden onset shortness of breath, pleuritic chest pain, and hypoxia indicate life-threatening PE."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "osteoporosis-and-fragility-fractures",
+      "heading": "9. Osteoporosis & Fragility Fractures",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Sublesional Osteoporosis: Rapid loss of bone mineral density (BMD) occurring below the level of injury due to the lack of mechanical weight-bearing loads and altered neurovascular signaling.",
+            "Risk: High susceptibility to low-energy fragility fractures, particularly around the distal femur and proximal tibia."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "psychological-impact-and-mental-wellbeing",
+      "heading": "10. Psychological Impact & Mental Wellbeing",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Psychological Reactions: Elevated incidence of major depressive disorder, anxiety, situational adjustment disorders, and post-traumatic stress disorder (PTSD).",
+            "Clinical Necessity: Requires routine integration of psychological screening, coping frameworks, peer mentorship, and cognitive behavioral interventions into long-term management."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sexual-and-reproductive-health",
+      "heading": "11. Sexual & Reproductive Health",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Impact & Adaptation: Spinal cord injury alters reflex and psychogenic sexual responses, arousal, and sensation. Reproductive capability remains intact for most women (with temporary amenorrhea post-injury), while men may experience erectile or ejaculatory changes that can be managed with medical interventions.",
+            "Professional Support: Confidential counseling with urologists, gynecologists, and rehabilitation specialists provides guidance on fertility options, adaptive intimacy techniques, and safe family planning."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orthostatic-hypotension",
+      "heading": "12. Orthostatic Hypotension",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Definition & Symptoms: A sudden drop in blood pressure occurring when moving from a lying to a seated or standing position. Symptoms include lightheadedness, dizziness, blurred vision, or fainting.",
+            "Management: Gradual positional changes, abdominal binders, compression stockings, adequate fluid intake, and clinical evaluation by a healthcare provider."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thermoregulation-and-temperature-control",
+      "heading": "13. Thermoregulation & Temperature Control",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Autonomic Disruption: Reduced ability to regulate body temperature below the injury level due to loss of sweating and shivering responses.",
+            "Risk Management: Protect against extreme environmental temperatures (hyperthermia in hot conditions, hypothermia in cold conditions) through appropriate clothing, hydration, and climate-controlled environments."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "The phrase 'Vel-dependent' in section 5 appears exactly as in the source PDF (possibly intended as 'Velocity-dependent'); it has been preserved verbatim and flagged in content-audit.md, not corrected."
+  ]
+}

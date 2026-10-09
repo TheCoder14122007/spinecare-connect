@@ -1,0 +1,24 @@
+{
+  "id": "home",
+  "title": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन आणि क्लिनिकल कंटेंट रिपॉझिटरी",
+  "language": "mr",
+  "source_document": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन आणि क्लिनिकल कंटेंट रिपॉझिटरी",
+  "parent": null,
+  "sections": [
+    {
+      "id": "document-title-and-purpose",
+      "heading": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन आणि क्लिनिकल कंटेंट रिपॉझिटरी",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "[Educational Prototype – Based on Available References | Not Clinically Reviewed]"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "दस्तावेज़ाचे स्थिती लेबल (Educational Prototype – Based on Available References | Not Clinically Reviewed) मराठी PDF च्या मुखपृष्ठावर असल्याप्रमाणे संरक्षित आहे.",
+    "मराठी स्रोतात 'उद्देश (Purpose Statement)' मुखपृष्ठावर नसून सेक्शन 0 मध्ये आहे; तो content-governance.json च्या 'purpose-statement' विभागात ठेवला आहे (इंग्रजी/हिंदी रचनेपासून हा फरक असल्याचे content-audit.md मध्ये नोंद आहे)."
+  ]
+}

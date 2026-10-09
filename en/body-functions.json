@@ -1,0 +1,61 @@
+{
+  "id": "body-functions",
+  "title": "Section 2: Body Functions & Secondary Complications (Overview)",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "comprehensive-body-functions-overview",
+      "heading": "Comprehensive Body Functions Overview",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Spinal cord injury affects multiple physiological systems depending on the level and completeness of injury:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Movement & Motor Function: Loss or weakness of voluntary muscle control below the injury level, affecting mobility, posture, and dexterity.",
+            "Sensation: Altered or absent perception of touch, temperature, pressure, and pain.",
+            "Bladder & Bowel Function: Disruption of voluntary sphincter control and autonomic signaling, requiring structured management routines.",
+            "Sexual & Reproductive Health: Changes in physical response, sensation, and fertility, which can be managed with specialized medical guidance.",
+            "Breathing & Respiratory Function: Variable impact on respiratory muscles (diaphragm, intercostals, abdominals) depending on injury height.",
+            "Blood Pressure & Heart Rate Regulation: Autonomic vascular control changes leading to orthostatic hypotension or autonomic dysreflexia.",
+            "Temperature Regulation (Thermoregulation): Impaired autonomic control of sweating, shivering, and cutaneous vasodilation below the injury level."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "secondary-complications-covered",
+      "heading": "Secondary Complications Covered Under This Topic",
+      "content": [
+        {
+          "type": "note",
+          "text": "The source document numbers the following complications 1–13. Detailed content for each complication is stored in the child topic files linked to this overview (see index.json)."
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "1. Pressure Injuries (child file: pressure-injuries.json)",
+            "2. Neurogenic Bladder & Urinary Tract Infections (UTI) (child file: neurogenic-bladder-and-uti.json)",
+            "3. Neurogenic Bowel Dysfunction (NBD) & Constipation (child file: neurogenic-bowel-dysfunction.json)",
+            "4. Autonomic Dysreflexia (AD) 🟢 / 🟡 (child file: autonomic-dysreflexia.json)",
+            "5. Spasticity & Joint Contractures (child file: secondary-complications-5-13.json)",
+            "6. Neuropathic & Musculoskeletal Pain (child file: secondary-complications-5-13.json)",
+            "7. Respiratory Complications & Pulmonary Care (child file: secondary-complications-5-13.json)",
+            "8. Deep Vein Thrombosis (DVT) & Pulmonary Embolism (PE) (child file: secondary-complications-5-13.json)",
+            "9. Osteoporosis & Fragility Fractures (child file: secondary-complications-5-13.json)",
+            "10. Psychological Impact & Mental Wellbeing (child file: secondary-complications-5-13.json)",
+            "11. Sexual & Reproductive Health (child file: secondary-complications-5-13.json)",
+            "12. Orthostatic Hypotension (child file: secondary-complications-5-13.json)",
+            "13. Thermoregulation & Temperature Control (child file: secondary-complications-5-13.json)"
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": []
+}

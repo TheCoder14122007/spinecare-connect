@@ -1,0 +1,24 @@
+{
+  "id": "disclaimer",
+  "title": "Medical Information Disclaimer",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "medical-information-disclaimer",
+      "heading": "Medical Information Disclaimer",
+      "content": [
+        {
+          "type": "disclaimer",
+          "text": "SpineCare Connect is an educational project that provides general information about spinal cord injury (SCI), related complications, daily living and available support. The information is based on available published references and has not undergone independent clinical review. It is not a substitute for professional medical advice, diagnosis, treatment or individualized rehabilitation guidance. Every person's condition and needs are different. Consult a qualified healthcare professional for personal care decisions. In an emergency, seek immediate medical assistance."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "This disclaimer must be preserved and displayed with its full original wording wherever website content is shown.",
+    "The content is general educational information only. It must not be presented as clinically verified, clinically approved, or personalized medical advice."
+  ]
+}

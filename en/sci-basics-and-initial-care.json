@@ -1,0 +1,148 @@
+{
+  "id": "sci-basics-and-initial-care",
+  "title": "Section 1: SCI Basic Information, Diagnosis & Initial Care",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "definition-and-pathophysiology",
+      "heading": "Definition & Pathophysiology",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Spinal Cord Injury (SCI) refers to structural or functional damage to the spinal cord resulting in a disruption of motor, sensory, and autonomic signal transmission between the brain and peripheral organs below the level of lesion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pathophysiologically, SCI involves two primary phases:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Primary Injury: The immediate mechanical damage (contusion, laceration, shear force, or ischemia) to neuronal axons, glial cells, and spinal vasculature.",
+            "Secondary Injury: The dynamic cascade initiating minutes to hours post-trauma, characterized by edema, vascular thrombosis, excitotoxicity (glutamate release), neuroinflammation, lipid peroxidation, and cellular apoptosis, leading to secondary lesion expansion."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diagnosis-and-clinical-assessment",
+      "heading": "Diagnosis & Clinical Assessment",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Determining the extent and severity of a spinal cord injury requires thorough clinical evaluation by qualified medical professionals:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Neurological Examination: Systematic assessment of muscle strength (motor function) and light touch/pinprick sensations (sensory function) across key reference points on the body.",
+            "Diagnostic Imaging: X-rays evaluate bone alignment and fractures; Computed Tomography (CT) scans provide detailed cross-sectional views of bony trauma; Magnetic Resonance Imaging (MRI) visualizes soft tissues, including the spinal cord, nerve roots, and surrounding ligaments.",
+            "Professional Evaluation Standard: Formal neurological classification using the ASIA/ISNCSCI scale must be performed strictly by trained medical specialists (such as neurologists, physiatrists, or spinal surgeons). Self-diagnosis or informal classification is unsafe and prohibited."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acute-injury-awareness-and-first-response",
+      "heading": "Acute Injury Awareness & First Response",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In any case of suspected spinal cord injury (e.g., following a high-impact collision, fall, or severe trauma), immediate actions can prevent worsening neurological damage:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Immobilization: Keep the injured individual completely still. Do not move or twist their head, neck, or back.",
+            "Emergency Medical Call: Contact local emergency medical services immediately. In India, call 112 (Emergency Response Support System) for urgent ambulance support.",
+            "Avoid DIY Interventions: Do not attempt to lift, transport, or administer home remedies or first aid manipulations without trained paramedic equipment (e.g., rigid cervical collar, spinal board)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "etiology-and-causes",
+      "heading": "Etiology & Causes",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "SCI etiology is categorized into traumatic and non-traumatic mechanisms:"
+        },
+        {
+          "type": "table",
+          "columns": ["Category", "Primary Etiologies", "Clinical & Epidemiological Features"],
+          "rows": [
+            [
+              "Traumatic",
+              "Road Traffic Accidents (RTA), Falls, Violence (e.g., gunshot wounds), Sports Injuries",
+              "Predominantly affects young adults and elderly populations (due to low-impact falls). Demands immediate immobilization and acute surgical stabilization."
+            ],
+            [
+              "Non-Traumatic",
+              "Primary/Metastatic Tumors, Vascular Malformations, Severe Spinal Stenosis, Infections (e.g., TB Spine / Pott Disease), Congenital Anomalies (e.g., Spina Bifida)",
+              "Onset may be insidious or rapidly progressive. Requires disease-specific management (e.g., oncology, antimicrobial, decompressive surgery)."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "functional-classification",
+      "heading": "Functional Classification",
+      "content": [
+        {
+          "type": "subheading",
+          "text": "Complete vs. Incomplete SCI"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Complete SCI: Characterized by the absence of sensory and motor function in the lowest sacral segments (S4–S5), defined by the ASIA Impairment Scale (AIS) Grade A.",
+            "Incomplete SCI: Preservation of sensory and/or motor function below the neurological level of injury, including sacral segments S4–S5 (AIS Grades B, C, and D)."
+          ]
+        },
+        {
+          "type": "note",
+          "text": "Note: SpineCare Connect provides structural classification awareness based on ASIA framework principles but does not issue or replace formal medical diagnoses."
+        },
+        {
+          "type": "subheading",
+          "text": "Paraplegia vs. Tetraplegia (Quadriplegia)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tetraplegia (Quadriplegia): Impairment or loss of motor and/or sensory function in the cervical segments of the spinal cord (C1–C8). Results in functional impairment of the upper limbs, trunk, pelvic organs, and lower limbs.",
+            "Paraplegia: Impairment or loss of motor and/or sensory function in the thoracic, lumbar, or sacral segments of the spinal cord (T1–S5). Upper limb function is fully preserved, while trunk, pelvic organs, and lower limbs may be affected depending on the level."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "segmental-impairment-overview",
+      "heading": "Segmental Impairment Overview",
+      "content": [
+        {
+          "type": "note",
+          "text": "Note: Functional abilities described below represent general anatomical patterns. Actual functional capacity varies significantly depending on the neurological level, completeness of injury (AIS grade), individual recovery, and comprehensive rehabilitation."
+        },
+        {
+          "type": "list",
+          "items": [
+            "C1 - C4 | Respiratory reliance (diaphragm function variable), full dependent transfers, tetraplegia.",
+            "C5 - C8 | Elbow flexion (C5), wrist extension (C6), elbow extension (C7), hand finger flexion (C8).",
+            "T1 - T6 | Full upper extremity function, loss of lower trunk balance, intercostal weakness.",
+            "T7 - T12 | Preserved abdominal control, improved trunk stability, paraplegia.",
+            "L1 - S5 | Variable hip flexor, knee extensor, and ankle/foot retention; neurogenic bladder/bowel present."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "The ASIA/ISNCSCI classification is referenced in the source as a professional evaluation standard; self-diagnosis or informal classification is described as unsafe and prohibited in the source."
+  ]
+}

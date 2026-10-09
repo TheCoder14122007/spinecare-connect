@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>SpineCare Connect — Understanding Spinal Cord Injury, Together</title>
+<meta name="description" content="Educational information about Spinal Cord Injury (SCI) in English, Hindi and Marathi. Not clinically reviewed.">
+
+<!-- FIX #3: correct native widget rendering in dark mode -->
+<meta name="color-scheme" content="light dark">
+<!-- mobile browser chrome tint -->
+<meta name="theme-color" content="#F6FAFB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0B1B3A" media="(prefers-color-scheme: dark)">
+
+<!-- FIX #2: inline SVG favicon — kills the 404 -->
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦴</text></svg>">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&family=Sora:wght@400;600;800&family=Inter:wght@400;600&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
+
+<!-- FIX #1: validate the saved theme — a corrupt value used to leave the
+     document with NO matching [data-theme] block → unstyled page -->
+<script>
+(function(){
+  var t=null;
+  try{ t=localStorage.getItem('scc-theme'); }catch(e){}
+  if(t!=='dark' && t!=='light'){
+    t=(window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light';
+  }
+  document.documentElement.setAttribute('data-theme',t);
+})();
+</script>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+
+<!-- reading progress -->
+<div class="progress-bar" id="progressBar" aria-hidden="true"></div>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="logo" href="#/home"><span class="logo-mark">🦴</span><span>Spine<b>Care</b>&nbsp;Connect</span></a>
+
+    <nav class="main-nav" id="mainNav" aria-label="Main navigation">
+      <a href="#/home" data-nav="home" data-i18n="nav.home">Home</a>
+      <a href="#/topic/sci-basics-and-initial-care" data-nav="learn" data-i18n="nav.learn">Learn About SCI</a>
+      <a href="#/topic/daily-care-home-safety-and-caregiver-support" data-nav="daily" data-i18n="nav.daily">Daily Care</a>
+      <a href="#/topic/nutrition-and-metabolic-management" data-nav="nutrition" data-i18n="nav.nutrition">Nutrition</a>
+      <a href="#/topic/body-functions" data-nav="complications" data-i18n="nav.complications">Complications</a>
+      <a href="#/topic/independence-and-assistive-technology" data-nav="assistive" data-i18n="nav.assistive">Assistive Tech</a>
+      <a href="#/topic/glossary" data-nav="glossary" data-i18n="nav.glossary">Glossary</a>
+      <a href="#/topic/myths-and-facts" data-nav="myths" data-i18n="nav.myths">Myths vs Facts</a>
+      <a href="#/topic/references" data-nav="resources" data-i18n="nav.resources">References</a>
+    </nav>
+
+    <div class="header-controls">
+      <button type="button" class="icon-btn" id="themeToggle" aria-label="Toggle dark mode">🌙</button>
+      <button type="button" class="emergency-btn" id="emergencyBtn" aria-haspopup="dialog" aria-expanded="false">🚨<span class="emg-text" data-i18n="nav.emergency">Emergency</span></button>
+      <button type="button" class="icon-btn hamburger" id="menuToggle" aria-label="Open menu" aria-expanded="false" aria-controls="mainNav">☰</button>
+    </div>
+
+    <!-- full-width language row (mobile) / pill (desktop) -->
+    <div class="lang-switch" role="group" aria-label="Select language">
+      <!-- FIX #5: lang attributes so screen readers pronounce each label correctly -->
+      <button type="button" class="lang-btn" data-lang="en" lang="en" aria-pressed="true">English</button>
+      <button type="button" class="lang-btn" data-lang="hi" lang="hi" aria-pressed="false">हिन्दी</button>
+      <button type="button" class="lang-btn" data-lang="mr" lang="mr" aria-pressed="false">मराठी</button>
+    </div>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <!-- FIX #4: the whole site is JS-rendered — explain instead of a blank page -->
+  <noscript>
+    <div style="max-width:640px;margin:40px auto;padding:24px;border:2px dashed #DC2626;border-radius:16px;font-family:sans-serif;text-align:center;line-height:1.7">
+      <strong>⚠️ JavaScript is required / JavaScript आवश्यक है / JavaScript आवश्यक आहे</strong><br>
+      This website loads all content (English / हिन्दी / मराठी) using JavaScript.
+      Please enable JavaScript and reload the page.
+    </div>
+  </noscript>
+  <div id="app" aria-live="polite"></div>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-col footer-about">
+      <h3>🦴 SpineCare Connect</h3>
+      <p data-i18n="footer.about">An educational project providing general information about spinal cord injury (SCI), related complications, daily living and available support — in English, Hindi and Marathi.</p>
+      <p class="status-chip" data-i18n="footer.status">Educational Prototype · Based on Available References · Not Clinically Reviewed</p>
+    </div>
+    <div class="footer-col">
+      <h4 data-i18n="footer.links">Quick Links</h4>
+      <a href="#/home" data-i18n="nav.home">Home</a>
+      <a href="#/topic/sci-basics-and-initial-care" data-i18n="nav.learn">Learn About SCI</a>
+      <a href="#/topic/triage-guidance" data-i18n="footer.warning">Warning Signs</a>
+      <a href="#/topic/glossary" data-i18n="nav.glossary">Glossary</a>
+      <a href="#/topic/references" data-i18n="footer.refs">References</a>
+    </div>
+    <div class="footer-col">
+      <h4 data-i18n="footer.disclaimerTitle">Medical Disclaimer</h4>
+      <p class="footer-disclaimer" id="footerDisclaimer"></p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span data-i18n="footer.copy">© SpineCare Connect — College educational project. Information only; not medical advice.</span>
+  </div>
+</footer>
+
+<!-- Emergency modal -->
+<div class="modal-overlay" id="emgModal" hidden role="dialog" aria-modal="true" aria-labelledby="emgTitle">
+  <div class="modal-card">
+    <div class="modal-head">
+      <h2 id="emgTitle">🚨 <span data-i18n="emg.title">Emergency — Act Fast</span></h2>
+      <button type="button" class="icon-btn" id="emgClose" aria-label="Close">✕</button>
+    </div>
+    <p class="emg-note" data-i18n="emg.note">If you notice any of these signs, seek immediate medical help:</p>
+    <ul class="emg-list" id="emgList"></ul>
+    <div class="emg-actions">
+      <a class="btn btn-danger" id="emgCallBtn" href="tel:112">📞 <span data-i18n="emg.call">Call 112</span></a>
+      <a class="btn btn-outline" href="#/topic/triage-guidance" id="emgPageBtn">🚨 <span data-i18n="emg.signs">All Warning Signs</span></a>
+    </div>
+    <p class="emg-desktop-note" data-i18n="emg.desktop">📱 Tip: “Call 112” opens the phone dialer on mobile devices.</p>
+  </div>
+</div>
+
+<!-- back to top -->
+<button type="button" class="to-top" id="toTop" aria-label="Back to top" hidden>↑</button>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>

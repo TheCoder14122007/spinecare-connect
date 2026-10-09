@@ -1,0 +1,25 @@
+{
+  "id": "neurogenic-bladder-and-uti",
+  "title": "2. Neurogenic Bladder & Urinary Tract Infections (UTI)",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": "body-functions",
+  "sections": [
+    {
+      "id": "neurogenic-bladder-uti-detail",
+      "heading": "2. Neurogenic Bladder & Urinary Tract Infections (UTI)",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Etiology: Loss of supraspinal autonomic control leading to detrusor hyperreflexia, detrusor-sphincter dyssynergia (DSD), or flaccid detrusor weakness.",
+            "UTI Risk: Urinary stasis, high storage pressures, incomplete emptying, and indwelling catheterization significantly elevate bacterial colonization risks.",
+            "Prevention Concepts: General urinary management education emphasizes techniques such as clean/sterile intermittent catheterization, adequate fluid intake, and regular urological monitoring to support bladder health and reduce infection risks. Specific catheter routines and fluid goals must be individualized with a clinician."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": []
+}

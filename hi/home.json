@@ -1,0 +1,24 @@
+{
+  "id": "home",
+  "title": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन और क्लिनिकल कंटेंट रिपॉजिटरी",
+  "language": "hi",
+  "source_document": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन और क्लिनिकल कंटेंट रिपॉजिटरी",
+  "parent": null,
+  "sections": [
+    {
+      "id": "document-title-and-purpose",
+      "heading": "SPINECARE CONNECT: मास्टर डेटा कलेक्शन और क्लिनिकल कंटेंट रिपॉजिटरी",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "[Educational Prototype – Based on Available References | Not Clinically Reviewed]"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "दस्तावेज़ की स्थिति लेबल (Educational Prototype – Based on Available References | Not Clinically Reviewed) स्रोत PDF के शीर्षक के नीचे जैसा है वैसा ही संरक्षित है।",
+    "हिंदी PDF में 'उद्देश्य' वाक्य अस्वीकरण अनुभाग (disclaimer.json) के अंतर्गत आता है; इसे यहाँ दोहराया नहीं गया है।"
+  ]
+}

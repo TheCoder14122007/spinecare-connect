@@ -1,0 +1,71 @@
+{
+  "id": "nutrition-and-metabolic-management",
+  "title": "Section 4: Nutrition & Metabolic Management",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "core-myth-buster",
+      "heading": "Core Myth Buster 🟢 SOURCE-BASED EDUCATIONAL INFORMATION",
+      "content": [
+        {
+          "type": "warning",
+          "text": "CLINICAL DIRECTIVE: There is currently no specialized diet, nutritional supplement, or hyper-dosed vitamin protocol that can repair, regenerate, or functional reconnect damaged spinal cord neural pathways. Nutritional strategies are strictly supportive, designed to manage altered metabolic profiles, maintain systemic physiological health, prevent secondary complications, and optimize physical rehabilitation."
+        }
+      ]
+    },
+    {
+      "id": "sci-specific-nutritional-changes",
+      "heading": "SCI-Specific Nutritional Changes",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Metabolic Rate Reduction: Basal metabolic rate (BMR) drops significantly post-SCI due to loss of active muscle mass, sympathetic nervous system alterations, and reduced physical movement.",
+            "Neurogenic Body Composition: Rapid denervation muscle atrophy accompanied by relative accumulation of adipose tissue (sarcopenic obesity), altering overall caloric expenditure calculations."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "key-nutritional-components",
+      "heading": "Key Nutritional Components",
+      "content": [
+        {
+          "type": "diagram",
+          "format": "ascii-tree",
+          "description": "Key Nutritional Components presented in the source as a tree under the label 'Nutritional Strategy'.",
+          "items": [
+            "Protein Management ───► Requires individual assessment by a dietitian or healthcare provider",
+            "Dietary Fibre ───────► Adjusted with medical guidance based on neurogenic bowel needs",
+            "Fluid Intake ────────► Customized under medical supervision based on bladder routine and health",
+            "Micronutrient Focus ─► Ca, Vit D, Zinc, Iron, Vit B12, Vit C (Skin, bone, hematology)"
+          ],
+          "raw_text": "Nutritional Strategy\n├── Protein Management ───► Requires individual assessment by a dietitian or healthcare provider\n├── Dietary Fibre ───────► Adjusted with medical guidance based on neurogenic bowel needs\n├── Fluid Intake ────────► Customized under medical supervision based on bladder routine and health\n└── Micronutrient Focus ─► Ca, Vit D, Zinc, Iron, Vit B12, Vit C (Skin, bone, hematology)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Balanced Macro Groups: Prioritize high-fiber complex carbohydrates (whole grains, legumes), high-quality lean proteins (poultry, fish, tofu, pulses), and healthy unsaturated fats (olive oil, avocados, nuts).",
+            "Protein Management: Protein requirements must be individualized based on clinical status, physical rehabilitation goals, and wound management needs under medical and dietitian supervision.",
+            "Dietary Fibre & Bowel Care: Dietary fiber adjustment requires professional guidance from healthcare providers to safely support bowel management.",
+            "Hydration: Fluid intake recommendations must be individualized under medical supervision according to specific bladder management routines and general health.",
+            {
+              "text": "Micronutrient Overview:",
+              "sub_items": [
+                "Calcium & Vitamin D: Essential for slowing sublesional bone density loss.",
+                "Zinc & Vitamin C: Critical co-factors for collagen synthesis and cutaneous wound healing.",
+                "Iron & Vitamin B12: Maintain red blood cell formation and metabolic cell function."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "The phrase 'functional reconnect' in the Core Myth Buster appears exactly as in the source PDF (possibly intended as 'functionally reconnect'); preserved verbatim and flagged in content-audit.md."
+  ]
+}

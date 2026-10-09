@@ -1,0 +1,49 @@
+{
+  "id": "triage-guidance",
+  "title": "Two-Tiered Triage Guidance System",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "two-tiered-triage-guidance-system",
+      "heading": "Two-Tiered Triage Guidance System",
+      "content": [
+        {
+          "type": "warning",
+          "text": "Tier 1 signs require seeking immediate medical assistance / calling 112."
+        },
+        {
+          "type": "subheading",
+          "text": "🚨 Tier 1: Emergency Warning Signs (Seek Immediate Medical Assistance / Call 112)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Autonomic Dysreflexia Signs: Sudden severe pounding headache, sweating/flushing above injury level, goosebumps, cold clammy skin below injury, or sudden blood pressure spike.",
+            "Acute Respiratory Distress: Severe shortness of breath, inability to clear secretions, cyanosis (bluish tint to lips/skin), or acute chest pain.",
+            "Severe Infection / Possible Systemic Urosepsis: High fever, chills, confusion, or dark/foul-smelling urine accompanied by systemic malaise.",
+            "Possible DVT / PE: Sudden unilateral leg swelling, warmth, redness, or acute shortness of breath and chest pain."
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "🩺 Tier 2: Contact Healthcare Professional (Routine / Urgent Consultation)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Skin Redness or Breakdown: Non-blanchable red spots or early skin changes (Stage 1/2 skin injury).",
+            "Urinary Appearance Changes or Potential UTI: Changes in urine clarity/odor (note: urine appearance changes alone are not standalone proof of UTI), increased spasticity, low-grade fever, autonomic changes, or flank discomfort warranting clinical evaluation.",
+            "Bowel Changes: Persistent constipation or routine disruptions.",
+            "Worsening Spasms or Pain: Increases in spasticity, neuropathic pain, or joint discomfort."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "The warning line above the Tier 1 heading summarizes the heading's own instruction (Seek Immediate Medical Assistance / Call 112); the heading itself is the original source wording."
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "references",
+  "title": "Section 8: Master Reference Catalogue",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "master-reference-catalogue",
+      "heading": "Master Reference Catalogue",
+      "content": [
+        {
+          "type": "numbered_list",
+          "items": [
+            {
+              "text": "World Health Organization (WHO)",
+              "sub_items": [
+                "ref-01: WHO Fact Sheet on Spinal Cord Injury. Published November 2023.",
+                "ref-02: WHO Package of Interventions for Rehabilitation: Module 3 - Neurological Conditions. Geneva: World Health Organization; 2023."
+              ]
+            },
+            {
+              "text": "National Institute of Neurological Disorders and Stroke (NINDS / NIH)",
+              "sub_items": [
+                "ref-03: Spinal Cord Injury: Hope Through Research. National Institutes of Health, Publication No. 23-NS-517, 2023."
+              ]
+            },
+            {
+              "text": "U.S. Department of Veterans Affairs (VA) Spinal Cord Injury System of Care",
+              "sub_items": [
+                "ref-04: VA Health Services for Veterans with Spinal Cord Injuries and Disorders. VHA Directive 1176, Veterans Health Administration, 2021."
+              ]
+            },
+            {
+              "text": "NHS England & NHS Improvement",
+              "sub_items": [
+                "ref-05: Service Specification: Spinal Cord Injury Services (All Ages). NHS England Specialist Commissioning, Clinical Reference Group for Spinal Cord Injuries, 2022."
+              ]
+            },
+            {
+              "text": "Consortium for Spinal Cord Medicine / Paralyzed Veterans of America",
+              "sub_items": [
+                "ref-06: Management of Neurogenic Bowel Dysfunction in Adults with SCI. Clinical Practice Guideline, 2020.",
+                "ref-07: Evaluation and Management of Autonomic Dysreflexia in Individuals with Spinal Cord Injury. Clinical Practice Guideline, 3rd Edition, 2021.",
+                "ref-08: Pressure Ulcer Prevention and Treatment Following Spinal Cord Injury. Clinical Practice Guideline, 3rd Edition, 2019."
+              ]
+            },
+            {
+              "text": "American Spinal Injury Association (ASIA)",
+              "sub_items": [
+                "ref-09: International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI). Revised Edition, Richmond, VA, 2019."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "ref-01",
+      "group": "World Health Organization (WHO)",
+      "citation": "WHO Fact Sheet on Spinal Cord Injury. Published November 2023."
+    },
+    {
+      "id": "ref-02",
+      "group": "World Health Organization (WHO)",
+      "citation": "WHO Package of Interventions for Rehabilitation: Module 3 - Neurological Conditions. Geneva: World Health Organization; 2023."
+    },
+    {
+      "id": "ref-03",
+      "group": "National Institute of Neurological Disorders and Stroke (NINDS / NIH)",
+      "citation": "Spinal Cord Injury: Hope Through Research. National Institutes of Health, Publication No. 23-NS-517, 2023."
+    },
+    {
+      "id": "ref-04",
+      "group": "U.S. Department of Veterans Affairs (VA) Spinal Cord Injury System of Care",
+      "citation": "VA Health Services for Veterans with Spinal Cord Injuries and Disorders. VHA Directive 1176, Veterans Health Administration, 2021."
+    },
+    {
+      "id": "ref-05",
+      "group": "NHS England & NHS Improvement",
+      "citation": "Service Specification: Spinal Cord Injury Services (All Ages). NHS England Specialist Commissioning, Clinical Reference Group for Spinal Cord Injuries, 2022."
+    },
+    {
+      "id": "ref-06",
+      "group": "Consortium for Spinal Cord Medicine / Paralyzed Veterans of America",
+      "citation": "Management of Neurogenic Bowel Dysfunction in Adults with SCI. Clinical Practice Guideline, 2020."
+    },
+    {
+      "id": "ref-07",
+      "group": "Consortium for Spinal Cord Medicine / Paralyzed Veterans of America",
+      "citation": "Evaluation and Management of Autonomic Dysreflexia in Individuals with Spinal Cord Injury. Clinical Practice Guideline, 3rd Edition, 2021."
+    },
+    {
+      "id": "ref-08",
+      "group": "Consortium for Spinal Cord Medicine / Paralyzed Veterans of America",
+      "citation": "Pressure Ulcer Prevention and Treatment Following Spinal Cord Injury. Clinical Practice Guideline, 3rd Edition, 2019."
+    },
+    {
+      "id": "ref-09",
+      "group": "American Spinal Injury Association (ASIA)",
+      "citation": "International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI). Revised Edition, Richmond, VA, 2019."
+    }
+  ],
+  "source_notes": [
+    "All nine reference entries from the source document's Master Reference Catalogue are preserved exactly as written; no references have been invented, completed, or removed.",
+    "The source document does not explicitly map individual references to specific sections. Therefore, no per-section reference associations have been assigned to any topic file; all references are held centrally in this file to avoid guessing associations."
+  ]
+}

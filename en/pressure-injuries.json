@@ -1,0 +1,39 @@
+{
+  "id": "pressure-injuries",
+  "title": "1. Pressure Injuries",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": "body-functions",
+  "sections": [
+    {
+      "id": "pressure-injuries-detail",
+      "heading": "1. Pressure Injuries",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "text": "Etiology: Unrelieved pressure, shear, friction, and moisture resulting in localized tissue ischemia, capillary occlusion, and cellular necrosis over bony prominences.",
+              "sub_items": []
+            },
+            {
+              "text": "Staging Awareness:",
+              "sub_items": [
+                "Stage 1: Non-blanchable erythema of intact skin.",
+                "Stage 2: Partial-thickness skin loss with exposed dermis (shallow open ulcer).",
+                "Stage 3: Full-thickness skin loss; adipose tissue visible; granulation tissue and epibole present.",
+                "Stage 4: Full-thickness skin and tissue loss; exposed bone, tendon, ligament, or muscle."
+              ]
+            },
+            {
+              "text": "Risk Factors: Immobility, sensory loss, incontinence, malnutrition, anemia, microclimate degradation.",
+              "sub_items": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": []
+}

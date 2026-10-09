@@ -1,0 +1,72 @@
+{
+  "id": "glossary",
+  "title": "Patient-Friendly SCI Glossary",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "patient-friendly-sci-glossary",
+      "heading": "Patient-Friendly SCI Glossary",
+      "content": [
+        {
+          "type": "glossary_entry",
+          "term": "Spinal Cord Injury (SCI)",
+          "definition": "Damage to the spinal cord that affects nerve signals between the brain and the body."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "AIS / ISNCSCI",
+          "definition": "Standardized clinical scale used by medical professionals to measure sensory and motor function after SCI."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Autonomic Dysreflexia (AD)",
+          "definition": "A serious medical reaction to discomfort below the injury level in people with SCI at T6 or above."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Deep Vein Thrombosis (DVT)",
+          "definition": "A blood clot that forms in a deep vein, usually in the leg."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Neurogenic Bladder / Bowel",
+          "definition": "Changes in bladder or bowel control caused by interrupted nerve signals."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Orthostatic Hypotension",
+          "definition": "A temporary drop in blood pressure when sitting up or standing."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Occupational Therapy (OT)",
+          "definition": "Therapy focused on building skills and adaptations for daily activities and self-care."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Physical Therapy (PT)",
+          "definition": "Therapy focused on movement, strength, balance, and transfer mobility."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Range of Motion (ROM)",
+          "definition": "Exercises that move joints through their full natural movement to prevent stiffness."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Spasticity",
+          "definition": "Involuntary muscle tightness or spasms resulting from changes in nerve pathways."
+        },
+        {
+          "type": "glossary_entry",
+          "term": "Urinary Tract Infection (UTI)",
+          "definition": "An infection in any part of the urinary system requiring clinical evaluation."
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "myths-and-facts",
+  "title": "SpineCare Connect Myth vs. Fact Matrix",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "myth-vs-fact-matrix",
+      "heading": "SpineCare Connect Myth vs. Fact Matrix",
+      "content": [
+        {
+          "type": "table",
+          "columns": ["Common Myth", "Clinical Fact"],
+          "rows": [
+            [
+              "Myth: Specific miracle diets or supplements can repair damaged spinal nerves.",
+              "Fact: No food or supplement restores neural connectivity. Nutrition supports overall metabolic health, wound healing, and recovery."
+            ],
+            [
+              "Myth: Using a wheelchair means complete loss of independence.",
+              "Fact: A wheelchair is an empowering mobility tool that enables active community living, work, and personal autonomy."
+            ],
+            [
+              "Myth: Everyone with an SCI follows the exact same rehabilitation plan.",
+              "Fact: Rehabilitation must be highly individualized based on injury level, completeness, health status, and personal goals."
+            ],
+            [
+              "Myth: Complete SCI means no recovery or adjustment is possible.",
+              "Fact: While neurological recovery below the lesion level in AIS Grade A complete injuries is typically limited, individuals gain significant functional independence, practical skills, physical adaptive capabilities, and quality of life through structured, multidisciplinary rehabilitation."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "The source presents myths and facts as a two-column matrix table; the table format is preserved as the original structure rather than being split into separate myth/fact objects."
+  ]
+}

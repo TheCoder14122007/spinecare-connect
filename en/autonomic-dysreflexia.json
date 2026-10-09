@@ -1,0 +1,44 @@
+{
+  "id": "autonomic-dysreflexia",
+  "title": "4. Autonomic Dysreflexia (AD)",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": "body-functions",
+  "sections": [
+    {
+      "id": "autonomic-dysreflexia-detail",
+      "heading": "4. Autonomic Dysreflexia (AD) 🟢 / 🟡",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Definition: A life-threatening medical emergency characterized by an unmodulated, massive sympathetic response to noxious stimuli below the level of injury.",
+            "Threshold: Occurs almost exclusively in individuals with an SCI level at T6 or above.",
+            "Triggers: Distended bladder (most common; blocked catheter), bowel impaction, pressure injuries, tight clothing, ingrown toenails, acute surgical/medical abdomen.",
+            "Signs & Symptoms: Rapid, severe hypertension (systolic BP > 20–40 mmHg above baseline), pounding headache, profuse sweating and cutaneous flushing above the injury level, goosebumps (piloerection) and pale cold skin below the injury level, nasal congestion, bradycardia."
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Emergency Warning Signs & Immediate Action"
+        },
+        {
+          "type": "warning",
+          "text": "Autonomic Dysreflexia is a serious medical emergency. Seek immediate emergency medical assistance (call 112 in India or go to the nearest emergency room) right away for professional clinical assessment and intervention."
+        },
+        {
+          "type": "list",
+          "items": [
+            "a. Recognize Warning Signs: Sudden severe pounding headache, sweating or skin flushing above the T6 injury level, goosebumps, cold clammy skin below the injury, or a rapid spike in blood pressure.",
+            "b. Immediate Medical Assistance Required: Autonomic Dysreflexia is a serious medical emergency. Seek immediate emergency medical assistance (call 112 in India or go to the nearest emergency room) right away for professional clinical assessment and intervention."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "Status markers 🟢 / 🟡 appear next to this heading in the source and refer to the Traffic Light Classification Framework labels defined in Section 0 (SOURCE-BASED EDUCATIONAL INFORMATION / CLINICAL REVIEW NOT CONDUCTED – PROFESSIONAL GUIDANCE REQUIRED).",
+    "The emergency action text appears both as a warning and as list item 'b.' in the source structure; both forms are preserved here for fidelity. When rendering on the website, display the warning once to avoid visual duplication."
+  ]
+}

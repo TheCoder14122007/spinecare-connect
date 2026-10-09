@@ -1,0 +1,103 @@
+{
+  "id": "rehabilitation",
+  "title": "Section 3: Multidisciplinary Rehabilitation, Physiotherapy & Occupational Therapy",
+  "language": "en",
+  "source_document": "English Master Data Collection & Clinical Content Repository",
+  "parent": null,
+  "sections": [
+    {
+      "id": "rehabilitation-goals",
+      "heading": "Rehabilitation Goals",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The core objective of multidisciplinary SCI rehabilitation is to maximize functional independence, mitigate secondary medical complications, optimize community reintegration, and maintain long-term physical and psychological health."
+        }
+      ]
+    },
+    {
+      "id": "multidisciplinary-team-structure",
+      "heading": "Multidisciplinary Team Structure",
+      "content": [
+        {
+          "type": "diagram",
+          "format": "ascii-organizational-chart",
+          "description": "Multidisciplinary team structure shown in the source as an ASCII organizational chart. Team members listed here in chart order; exact box-and-connector layout is preserved in raw_text.",
+          "members": [
+            "Patient & Caregiver Support",
+            "Physiatrist (Team Lead)",
+            "Rehabilitation Nurse",
+            "Physical Therapist",
+            "Occupational Therapist",
+            "Psychologist / Counsellor",
+            "Medical Social Worker",
+            "Clinical Dietitian"
+          ],
+          "raw_text": "+--------------------+\n| Patient &          |\n| Caregiver Support  |\n+---------+----------+\n          |\n+------------------------------+------------------------------+\n|                              |                              |\n+-------+--------+    +---------+--------+    +---------+--------+\n| Physiatrist    |    | Rehabilitation   |    | Physical         |\n| (Team Lead)    |    | Nurse            |    | Therapist        |\n+-------+--------+    +---------+--------+    +---------+--------+\n        |                     |                      |\n+-------+--------+    +---------+--------+    +---------+--------+\n| Occupational   |    | Psychologist /   |    | Medical Social   |\n| Therapist      |    | Counsellor       |    | Worker           |\n+-------+--------+    +---------+--------+    +---------+--------+\n                      |\n             +---------+--------+\n             | Clinical Dietitian|\n             +------------------+"
+        }
+      ]
+    },
+    {
+      "id": "physiotherapy-clinical-pathway",
+      "heading": "Physiotherapy Clinical Pathway",
+      "content": [
+        {
+          "type": "diagram",
+          "format": "ascii-flowchart",
+          "description": "Physiotherapy clinical pathway presented in the source as a vertical flowchart. Steps are sequential, connected by arrows in the order listed.",
+          "steps": [
+            "[1. Patient History]",
+            "[2. Physical Assessment] (ROM, Strength, Spasticity, Sensation)",
+            "[3. Problem Identification]",
+            "[4. Goal Setting] (SMART Framework)",
+            "[5. Individualized Care Plan] 🟢 / 🟡",
+            "[6. Therapeutic Exercise & Training]",
+            "[7. Progress Monitoring]",
+            "[8. Re-Assessment & Modification]"
+          ],
+          "raw_text": "[1. Patient History]\n   │\n   ▼\n[2. Physical Assessment] (ROM, Strength, Spasticity, Sensation)\n   │\n   ▼\n[3. Problem Identification]\n   │\n   ▼\n[4. Goal Setting] (SMART Framework)\n   │\n   ▼\n[5. Individualized Care Plan] 🟢 / 🟡\n   │\n   ▼\n[6. Therapeutic Exercise & Training]\n   │\n   ▼\n[7. Progress Monitoring]\n   │\n   ▼\n[8. Re-Assessment & Modification]"
+        }
+      ]
+    },
+    {
+      "id": "categories-of-physical-activity-in-sci",
+      "heading": "Categories of Physical Activity in SCI",
+      "content": [
+        {
+          "type": "subheading",
+          "text": "1. Physical Activity & Rehabilitation Awareness 🟡 CLINICAL REVIEW NOT CONDUCTED – PROFESSIONAL GUIDANCE REQUIRED"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Physical activity and rehabilitation after SCI may include general mobility, strengthening, flexibility, and balance concepts. All specific exercise routines, transfer techniques, and physical therapy plans must be individually prescribed and supervised by a qualified clinician or physiotherapist."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "occupational-therapy-ot-module",
+      "heading": "Occupational Therapy (OT) Module 🟢 / 🟡",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Occupational Therapy focuses on enabling individuals to participate in meaningful daily activities (Activities of Daily Living - ADLs) and fostering personal independence:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Self-Care & ADL Training: Instruction and adaptation for dressing, grooming, bathing, feeding, and hygiene management.",
+            "Upper-Limb & Hand Function Concepts: General occupational therapy strategies may explore strengthening, tenodesis grip principles, and splinting to optimize upper extremity function. Readers must consult qualified occupational therapists for individualized upper-limb assessments and interventions.",
+            "Adaptive Equipment Selection: Evaluation and training in specialized eating utensils, button hooks, reachers, and adaptive technology.",
+            "Environmental & Home Modification: Assessing living, learning, and work environments to recommend accessibility adjustments and ergonomic layouts."
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "source_notes": [
+    "Status markers 🟡 and 🟢 / 🟡 appear next to the Physical Activity subheading and OT Module heading in the source and refer to the Traffic Light Classification Framework labels defined in Section 0.",
+    "The ASCII diagrams were converted into structured data (members / steps) while the original raw text is preserved in raw_text; minor whitespace normalization was applied and is flagged in content-audit.md."
+  ]
+}
